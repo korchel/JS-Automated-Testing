@@ -2,5 +2,22 @@
   "type": "module",
   "scripts": {
     "test": "node --experimental-modules --no-warnings ./tests/capitalize.test.js"
-  }
+  },
+  "name": "js-automated-testing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/korchel/JS-Automated-Testing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/korchel/JS-Automated-Testing/issues"
+  },
+  "homepage": "https://github.com/korchel/JS-Automated-Testing#readme",
+  "description": ""
 }
